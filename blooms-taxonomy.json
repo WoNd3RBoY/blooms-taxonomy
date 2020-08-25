@@ -1,0 +1,336 @@
+{
+  "name": "Bloom's Taxonomy",
+  "languages": [ "en", "si" ],
+  "levels": [
+      {
+        "id": 1,
+        "name": "LEVEL 1",
+        "verb": "remember",
+        "verb_si": "zapomniti",
+        "verbs": [
+            { 
+              "id": 11,
+              "verb": "define",
+              "verb_si": "definirati"
+            },
+            { 
+              "id": 12,
+              "verb": "duplicate",
+              "verb_si": "duplicirati"
+            },
+            { 
+              "id": 13,
+              "verb": "list",
+              "verb_si": "navesti"
+            },
+            {
+              "id": 14,
+              "verb": "memorize",
+              "verb_si": "zapomniti"
+            },
+            { 
+              "id": 15,
+              "verb": "repeat",
+              "verb_si": "ponoviti"
+            },
+            { 
+              "id": 16,
+              "verb": "state",
+              "verb_si": "trditi"
+            }
+          ]
+      },
+      {
+        "id": 2,
+        "name": "LEVEL 2",
+        "verb": "understand",
+        "verb_si": "razumeti",
+        "verbs": [
+            { 
+              "id": 21,
+              "verb": "classify",
+              "verb_si": "klasificirati"
+            },
+            { 
+              "id": 22,
+              "verb": "describe",
+              "verb_si": "opisati"
+            },
+            { 
+              "id": 23,
+              "verb": "discuss",
+              "verb_si": "razpravljati"
+            },
+            { 
+              "id": 24,
+              "verb": "explain",
+              "verb_si": "pojasnjevati"
+            },
+            { 
+              "id": 25,
+              "verb": "identify",
+              "verb_si": "identificirati"
+            },
+            { 
+              "id": 26,
+              "verb": "locate",
+              "verb_si": "locirati"
+            },
+            { 
+              "id": 27,
+              "verb": "recognize",
+              "verb_si": "prepoznati"
+            },
+            { 
+              "id": 28,
+              "verb": "report",
+              "verb_si": "poročati"
+            },
+            { 
+              "id": 29,
+              "verb": "select",
+              "verb_si": "izbirati"
+            },
+            { 
+              "id": 210,
+              "verb": "translate",
+              "verb_si": "prevesti"
+            }
+          ]
+      },
+      {
+        "id": 3,
+        "name": "LEVEL 3",
+        "verb": "apply",
+        "verb_si": "aplicirati",
+        "verbs": [
+            { 
+              "id": 31,
+              "verb": "execute",
+              "verb_si": "izvesti"
+            },
+            { 
+              "id": 32,
+              "verb": "implement",
+              "verb_si": "implementirati"
+              },
+            { 
+              "id": 33,
+              "verb": "solve",
+              "verb_si": "reševati"
+              },
+            { 
+              "id": 34,
+              "verb": "use",
+              "verb_si": "uporabljati"
+              },
+            { 
+              "id": 35,
+              "verb": "demonstrate",
+              "verb_si": "demonstrirati"
+              },
+            { 
+              "id": 36,
+              "verb": "interpret",
+              "verb_si": "interpretirati"
+              },
+            { 
+              "id": 37,
+              "verb": "operate",
+              "verb_si": "operirati"
+              },
+            { 
+              "id": 38,
+              "verb": "schedule",
+              "verb_si": "planirati"
+              },
+            { 
+              "id": 39,
+              "verb": "sketch",
+              "verb_si": "skicirati"
+              }
+          ]
+      },
+      {
+        "id": 4,
+        "name": "LEVEL 4",
+        "verb": "analyze",
+        "verb_si": "analizirati",
+        "verbs": [
+            { 
+              "id": 41,
+              "verb": "differentiate",
+              "verb_si": "razločevati"
+            },
+            { 
+              "id": 42,
+              "verb": "organize",
+              "verb_si": "organizirati"
+            },
+            { 
+              "id": 43,
+              "verb": "relate",
+              "verb_si": "povezovati"
+            },
+            { 
+              "id": 44,
+              "verb": "compare",
+              "verb_si": "primerjati"
+            },
+            { 
+              "id": 45,
+              "verb": "contrast",
+              "verb_si": "primerjati"
+            },
+            { 
+              "id": 46,
+              "verb": "distinguish",
+              "verb_si": "razlikovati"
+            },
+            { 
+              "id": 47,
+              "verb": "examine",
+              "verb_si": "pregledovati"
+            },
+            { 
+              "id": 48,
+              "verb": "experiment",
+              "verb_si": "eksperimentirati"
+            },
+            { 
+              "id": 49,
+              "verb": "question",
+              "verb_si": "se spraševati"
+            },
+            { 
+              "id": 410,
+              "verb": "test",
+              "verb_si": "testirati"
+            }
+          ]
+      },
+      {
+        "id": 5,
+        "name": "LEVEL 5",
+        "verb": "evaluate",
+        "verb_si": "ocenjevati",
+        "verbs": [
+            { 
+              "id": 51,
+              "verb": "appraise",
+              "verb_si": "oceniti"
+            },
+            { 
+              "id": 52,
+              "verb": "argue",
+              "verb_si": "debatirati"
+            },
+            { 
+              "id": 53,
+              "verb": "defend",
+              "verb_si": "zagovarjati"
+            },
+            { 
+              "id": 54,
+              "verb": "judge",
+              "verb_si": "presojati"
+            },
+            { 
+              "id": 55,
+              "verb": "select",
+              "verb_si": "izbirati"
+            },
+            { 
+              "id": 56,
+              "verb": "support",
+              "verb_si": "podpirati"
+            },
+            { 
+              "id": 57,
+              "verb": "value",
+              "verb_si": "ceniti"
+            },
+            { 
+              "id": 58,
+              "verb": "critique",
+              "verb_si": "kritizirati"
+            },
+            { 
+              "id": 59,
+              "verb": "weigh",
+              "verb_si": "tehtati"
+            }
+          ]
+      },
+      {
+        "id": 6,
+        "name": "LEVEL 6",
+        "verb": "create",
+        "verb_si": "ustvariti",
+        "verbs": [
+            { 
+              "id": 61,
+              "verb": "design",
+              "verb_si": "oblikovati"
+            },
+            { 
+              "id": 62,
+              "verb": "assemble",
+              "verb_si": "sestaviti"
+            },
+            { 
+              "id": 63,
+              "verb": "construct",
+              "verb_si": "zgraditi"
+            },
+            { 
+              "id": 64,
+              "verb": "conjecture",
+              "verb_si": "zgraditi"
+            },
+            { 
+              "id": 65,
+              "verb": "develop",
+              "verb_si": "razviti"
+            },
+            { 
+              "id": 66,
+              "verb": "formulate",
+              "verb_si": "formulirati"
+            },
+            { 
+              "id": 67,
+              "verb": "author",
+              "verb_si": "kreirati"
+            },
+            { 
+              "id": 68,
+              "verb": "investigate",
+              "verb_si": "raziskati"
+            }
+          ]
+      }
+    ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
